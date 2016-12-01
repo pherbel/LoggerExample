@@ -1,0 +1,140 @@
+[LoggerConsoleApp.TestClass]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.TestClass]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.TestClass]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:54 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [debug] Debug message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [error] Error message
+
+[LoggerConsoleApp.Program]: 12/1/2016 6:29:55 PM [info] Info message
+
