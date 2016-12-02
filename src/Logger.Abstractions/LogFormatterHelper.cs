@@ -31,7 +31,6 @@ namespace Logger.Abstractions
                 logBuilder.Append(GetLogLevelString(logLevel));
                 logBuilder.Append("] ");
                 logBuilder.Append(message);
-                logBuilder.AppendLine();
             }
             string logMessage = null;
             if (logBuilder.Length > 0)
